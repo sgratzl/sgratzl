@@ -1,4 +1,4 @@
-### Holá
+### Servus
 
 I'm Sam.
 I'm a research software engineer with a focus on interactive data exploration.
